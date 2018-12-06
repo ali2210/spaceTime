@@ -2,13 +2,13 @@
 spaceTime build game on blockchain using loom-sdk, plasma-cash,protobufs and go 
 
 
-/*Go Install*/
+Go Install
 
 1. First install go from offical website
 onces you installed
 2. set the gopath
 
-/*Install packages for linux*/
+Install packages for linux
 
 1. You need loom
     $ go get-u github.com/loomnetwork/go-loom
